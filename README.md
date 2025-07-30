@@ -1,0 +1,1 @@
+Task Manager API is a RESTful service built using Go (Gin framework) and MongoDB as the database. It allows users to manage their tasks efficiently by supporting the full set of CRUD operations
